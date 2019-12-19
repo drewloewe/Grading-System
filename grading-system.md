@@ -22,24 +22,18 @@ f
 ### Protect your Work
 - Save your work in ways that do not make you depend 100% on the health of a particular hard drive or flash drive (e.g., use Google Drive).
 ### Avoid Distractions *
-	- Don’t distract yourself during work time with smartphones, tablets, or computers used for non-work tasks. Ordinarily, there is no reason to text during class, though you (and I) may need to from time to time for various reasons. This admonition is even more important in online courses—you must exercise more discipline in online courses to avoid distractions. 
+Don’t distract yourself during work time with smartphones, tablets, or computers used for non-work tasks. Ordinarily, there is no reason to text during class, though you (and I) may need to from time to time for various reasons. 
+
+This admonition is even more important in online courses—you must exercise more discipline in online courses to avoid distractions. 
+
 ### Dig Into the Work
 
-**It all counts--there is no busy work.** Don't just show up/log in/keep from being a distraction. Those are basic grade-school behavioral expectations. In a college course, you need to offer insights, ask questions, answer questions, bring necessary materials, dig into quizzes, class discussions, and activities, confer during workshops, participate in discussion boards on Canvas, and do assigned homework and in-process activities. 
-
-If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. 
-
-I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. 
-
-Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades, if warranted. 
-
-Bring (or submit) ["good faith full drafts" (your best effort-in-progress attempting the whole project) for peer review sessions](https://docs.google.com/document/d/1q_s-kbesVB7n7kQKZA2jJ2Vt9V-jv7abUDPOIWP5RSk/edit?usp=sharing). 
-
-Give thoughtful, useful, honest peer feedback. If we do hard-copy peer review in F2F classes, keep track of peer review evidence so your partner can get credit._
-
-Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Don't blast off from the assignment and turn in some other kind of work. This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*.
-
-Submit all required self-assessments, completed thoroughly. 
+-	**It all counts--there is no busy work.** Don't just show up/log in/keep from being a distraction. Those are basic grade-school behavioral expectations. In a college course, you need to offer insights, ask questions, answer questions, bring necessary materials, dig into quizzes, class discussions, and activities, confer during workshops, participate in discussion boards on Canvas, and do assigned homework and in-process activities. 
+-	If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades, if warranted. 
+-	Bring (or submit) ["good faith full drafts" (your best effort-in-progress attempting the whole project) for peer review sessions](https://docs.google.com/document/d/1q_s-kbesVB7n7kQKZA2jJ2Vt9V-jv7abUDPOIWP5RSk/edit?usp=sharing). 
+-	Give thoughtful, useful, honest peer feedback. If we do hard-copy peer review in F2F classes, keep track of peer review evidence so your partner can get credit.
+-	Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Don't blast off from the assignment and turn in some other kind of work. This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*.
+-	Submit all required self-assessments, completed thoroughly. 
 
 ## II. The Performance-Based Part
 ### Complete/Incomplete-Graded Activities and Assignments
