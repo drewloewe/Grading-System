@@ -47,6 +47,9 @@ This admonition is even more important in online courses—you must exercise mor
 - Typically, points-graded work will have a simple points scale keyed to the basic four descriptors of Meets All Expectations; Meets Most Expectations; Shows Effort, but Doesn’t Yet Meet Most Expectations; and Not Assessable.
 
 ## III. Final Course Grades
+
+I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc.
+
 ### A 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
