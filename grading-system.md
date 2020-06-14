@@ -44,7 +44,8 @@ This admonition is even more important in online courses—you must exercise mor
 ### Points-Graded Activities, Exams, Quizzes, and Assignments 
 - For other activities and assignments, I will use a points-based scale and rubric for that assignment (as well as comments and feedback).  
 - Not everything is revisable (e.g., quizzes, peer review, exams, etc.), but major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively, I will simply change the grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
-- Typically, points-graded work will have a simple points scale keyed to the basic four descriptors of Meets All Expectations; Meets Most Expectations; Shows Effort, but Doesn’t Yet Meet Most Expectations; and Not Assessable.
+- Typically, points-graded work will have a simple points scale keyed to the basic four descriptors of Meets All Expectations-100%; Meets Most Expectations-85%; Shows Effort, but Doesn’t Yet Meet Most Expectations-70%; and Not Assessable-0.
+- For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
 ## III. Final Course Grades
 
