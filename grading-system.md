@@ -30,21 +30,15 @@ This admonition is even more important in online courses—you must exercise mor
 
 -	**It all counts--there is no busy work.** Don't just show up/log in/keep from being a distraction. In a college course, you need to offer insights, ask questions, answer questions, bring necessary materials, dig into quizzes, class discussions, and activities, confer during workshops, participate in discussion boards on Canvas, and do assigned homework and in-process activities. 
 -	If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades, if warranted. 
--	Bring (or submit) ["good faith full drafts" (your best effort-in-progress attempting the whole project) for peer review sessions](https://docs.google.com/document/d/1q_s-kbesVB7n7kQKZA2jJ2Vt9V-jv7abUDPOIWP5RSk/edit?usp=sharing). 
--	Give thoughtful, useful, honest peer feedback. If we do hard-copy peer review in F2F classes, keep track of peer review evidence so your partner can get credit.
+-	Bring (or submit) "good faith full drafts" (your best effort-in-progress attempting the whole project) for peer review sessions. 
+-	Give thoughtful, useful, honest peer feedback. 
 -	Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Don't blast off from the assignment and turn in some other kind of work. This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*.
--	Submit all required self-assessments, completed thoroughly and specifically. 
 
 ## II. The Performance-Based Part
-### Complete/Incomplete-Graded Activities and Assignments
-- For some activities and assignments, I will use a simple binary scale: 
-	- **&#10004;** Complete, meaning you turned it in and it meets its particular specifications
-	- **&#10008;** Incomplete, meaning that you did not turn it in, or it does not meet its particular specifications
-- [Canvas's grade book](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif) does not handle some features of grading well, but we're stuck with it. For purposes of the grade book, each graded event has certain levels of performance, even if the grade book in Canvas calls it "ungraded" or "does not count toward final grade" (those are workarounds necessitated by Canvas's irritating fixation on points and percentages). 
-### Points-Graded Activities, Exams, Quizzes, and Assignments 
-- For other activities and assignments, I will use a points-based scale and rubric for that assignment (as well as comments and feedback).  
-- Not everything is revisable (e.g., quizzes, peer review, exams, etc.), but major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively, I will simply change the grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
-- Typically, points-graded work will have a simple points scale keyed to the basic four descriptors of Meets All Expectations-100%; Meets Most Expectations-85%; Shows Effort, but Doesn’t Yet Meet Most Expectations-70%; and Not Assessable-0.
+
+-  I will use a points-based scale and rubric (as well as comments and feedback where warranted). 
+- Some work is not revisable (e.g., quizzes, peer review, discussion posts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively, I will simply change the grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
+- Typically, graded work will have a simple point scale keyed to the basic four descriptors of Meets All Expectations-100%; Meets Most Expectations-85%; Shows Effort, but Doesn’t Yet Meet Most Expectations-70%; and Not Assessable-0.
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
 ## III. Final Course Grades
@@ -54,33 +48,26 @@ I opt out of the university's plus-minus grading system. I will assign whole gra
 ### A 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 90+% of the total available points once all points-graded activities, exams, quizzes, and assignments are complete
-- _submits_ all complete/incomplete-graded activities and assignments and earn grade of “complete.”
+- _earns_ 90+% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
 ###  B 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 80-89% of the total available points once all points-graded activities, exams, quizzes, and assignments are complete
-- _submits_ all complete/incomplete-graded activities and assignments and earn grade of “complete.”
+- _earns_ 80-89% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
 ### C 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 70-79% of the total available points once all points-graded activities, exams, quizzes, and assignments are complete. 
-- _submits_ all but a couple of the complete/incomplete-graded activities and assignments and earn grade of “complete.”
+- _earns_ 70-79% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed. 
 ###  NP (in WRIT 1301 or 2302) or D (in other courses) 
 The student:
 - _meets_ most of the requirements of the labor-based part of this system;
-- _earns_ 60-69% of the total available points once all points-graded activities, exams, quizzes, and assignments are complete (D- is not an available grade);
-- _submits_ some of the complete/incomplete-graded activities and assignments and earn grade of “complete.”
+- _earns_ 60-69% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed. 
+- D- is not an available grade at St. Edward's.
 ### F
 The student:
-- _meets few of the requirements of the labor-based part of this system;
-- _earns_ <60% of the total available points once all points-graded activities, exams, quizzes, and assignments are complete;
-- _submits_ few of the complete/incomplete-graded activities and assignments and earn grade of “complete”;
-- _commits_ a serious act of academic dishonesty (NB: dishonesty can by itself result in a final grade of F)
-### You Get to Make an Argument
-- In the final self-assessment, you should make a *reasonable, supported argument* to me about what overall course grade you believe is warranted. I do want to hear from you since I try to defer ultimate assigning of a course grade until I have all the evidence and your input as a grownup. 
-- I am not bound by your arguments, but I will consider them if they are supported. Here, **argument = reasonable claim + sufficient evidence + warranted inferences**. Wishes, mere pleas, and schmoozing are not arguments. See the final self-assessment assignment. 
-- This is your chance to show me the full picture beyond my own recollections, comments, and grade book.
+- _meets_ few of the requirements of the labor-based part of this system and
+- _earns_ <60% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
+- Or, regardless of other performance, commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy. (NB: dishonesty can by itself result in a final grade of F).
+
 
 
 
