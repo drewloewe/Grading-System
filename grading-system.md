@@ -21,7 +21,7 @@
 - Use [the Writing Center](https://www.stedwards.edu/writing-center), whether by in-person session, videoconference, or asynchronous session as needed and (especially) as suggested.
 ### Protect your Work
 - Save your work in ways that do not make you depend 100% on the health of a particular hard drive or flash drive (e.g., use Google Drive).
-### Avoid Distractions *
+### Avoid Distractions 
 Don’t distract yourself during work time with smartphones, tablets, or computers used for non-work tasks. Ordinarily, there is no reason to text during class, though you (and I) may need to from time to time for various reasons. 
 
 This admonition is even more important in online courses—you must exercise more discipline in online courses to avoid distractions. 
