@@ -36,10 +36,11 @@ This admonition is even more important in online courses—you must exercise mor
 
 ## II. The Performance-Based Part
 
--  I will use a points-based scale and rubric (as well as comments and feedback where warranted). 
-- Some work is not revisable (e.g., quizzes, peer review, discussion posts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively, I will simply change the grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
-- Typically, graded work will have a simple point scale keyed to the basic four descriptors of Meets All Expectations-100%; Meets Most Expectations-85%; Shows Effort, but Doesn’t Yet Meet Most Expectations-70%; and Not Assessable-0.
-- For major projects, 90% of the available points are for content and 10% are for form and mechanics.
+-  I will use a points-based scale and rubric (as well as comments and feedback). 
+- Some work is not revisable and is graded all-or-nothing (e.g., quizzes, peer review, discussion posts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
+- Revisable major projects will have a simple point scale keyed to the basic four descriptors of Meets All Expectations-100%; Meets Most Expectations-85%; Shows Effort, but Doesn’t Yet Meet Most Expectations-70%; and Not Assessable-0. For major projects, 90% of the available points are for content and 10% are for form and mechanics.
+-  Items graded all-or-nothing will have a simple descriptor of the specifications for a good-faith, useful, responsive submission that does what the item is supposed to do (typically, spark discussion or help you work out your ideas). A good-faith, useful, responsive submission earns all the possible points.
+
 
 ## III. Final Course Grades
 
