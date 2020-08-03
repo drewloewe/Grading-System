@@ -9,7 +9,7 @@
 **Online classes** Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on.
 
 ### Meet Deadlines
-- Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts. In addition, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
+- Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts and activities we do in class. In addition, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
 
 ### Read Attentively and Actively
 -	Buy, rent, or access any required textbook(s); download or access (and consider printing) all other required readings.
