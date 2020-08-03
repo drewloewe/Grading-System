@@ -16,7 +16,7 @@
 -	Read all assigned readings closely and annotate them thoughtfully *before* class meetings in F2F classes and before you need to use them in online classes. (All readings are fair game for quizzes and other activities).
 -	Use active reading strategies, such as [Casey Boyle's six-step reading response](https://docs.google.com/document/d/1z1t_ft-HqFO9pK-LQtaASnyqmfh9kbnc6Mp2LzYKjNE/edit?usp=sharing) and the [SQ3R method](https://docs.google.com/document/d/1UQpnr27g58ABgOJXQzTny8AD4V2TZGYebM2tKUVjzaM/edit?usp=sharing). 
 ### Seek Guidance as a Adult Learner
--	Talk to me during in-class workshops, email me as needed, bring me drafts, come to student visiting hours in [my office], ask questions, and otherwise use me proactively as a resource. Use a Google Chat appointment if you can't come see me.
+-	Talk to me during in-class workshops, email me as needed, bring me drafts, come to student visiting hours, ask questions, and otherwise use me proactively as a resource. Use a Google Chat appointment if you can't come see me.
 - **NB:** If I ask you to meet with me in person or virtually, you *must* do so. **If I ask to see you, it's not some kind of punishment; rather, it's one grownup asking another to come get expert help that can best be delivered in person.**
 - Use [the Writing Center](https://www.stedwards.edu/writing-center), whether by in-person session, videoconference, or asynchronous session as needed and (especially) as suggested.
 ### Protect your Work
