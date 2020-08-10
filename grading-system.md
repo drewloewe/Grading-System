@@ -6,7 +6,7 @@
 
 **Traditional Classes**: Attend class regularly and on time; do not miss more than three class meetings total and do not miss any peer-review activities; log into Canvas regularly and make sure that you know what is going on, what you have to do, and when; stay in touch with professor and peers.
 
-**Online classes** Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on.
+**Online classes** Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on. In synchronous classes, you need to log in to Zoom and to participate via voice, camera (if desired), chat, and other ways. You will also need to complete quizzes, discussions, and other activities in Canvas. For asychronous classes, you will need to complete the weekly work schedule on time and as specified on the calendar.
 
 ### Meet Deadlines
 - Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts and activities we do in class. In addition, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
