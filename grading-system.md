@@ -18,7 +18,7 @@
 ### Seek Guidance as a Adult Learner
 -	Talk to me during in-class workshops, email me as needed, bring me drafts, come to student visiting hours, ask questions, and otherwise use me proactively as a resource. Use an appointment (I'll show you how to set one up) if you can't come see me.
 - **NB:** If I ask you to meet with me in person or virtually, you *must* do so. **If I ask to see you, it's not some kind of punishment; rather, it's one grownup asking another to come get expert help that can best be delivered in person.**
-- Use [the Writing Center](https://www.stedwards.edu/writing-center)as needed and (especially) if I suggest it.
+- Use [the Writing Center](https://www.stedwards.edu/writing-center) as needed and (especially) if I suggest it.
 ### Protect your Work
 - Save your work in ways that do not make you depend 100% on the health of a particular drive (e.g., use Google Drive).
 ### Avoid Distractions 
