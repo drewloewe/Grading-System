@@ -39,10 +39,10 @@ This admonition is even more important in online courses—you must exercise mor
 -  For major projects, I will use a points-based scale and rubric (as well as comments and feedback). 
 - Some work is not revisable and is graded all-or-nothing (e.g., quizzes, peer review, discussion posts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
 - Most work in most courses will be evaluated using a simple point scale. The scale is keyed to the basic four descriptors:
-  **100%** Excellent: meets all expectations; overall, notably substantive and polished 
-  **85%** Strong: meets most expectations; overall, solid with a few areas to improve
-  **70%** Passing: attempts all of the assignment, but overall does not yet meet most expectations; significant areas to improve
-  **0%** Not Passing: not submitted at all or submitted, but meets few or no expectations; major development or reworking needed 
+  - **100%--Excellent** meets all expectations; overall, notably substantive and polished 
+  - **85%--Strong** meets most expectations; overall, solid with a few areas to improve
+  - **70%-Passing** attempts all of the assignment, but overall does not yet meet most expectations; significant areas to improve
+ -  **0%--Not Passing** not submitted at all or submitted, but meets few or no expectations; major development or reworking needed 
 
 For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
