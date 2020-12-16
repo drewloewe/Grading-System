@@ -45,29 +45,29 @@ This admonition is even more important in online courses—you must exercise mor
 
 ## III. Final Course Grades
 
-I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc.
+I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc. I will build a structure that offers at least 1000 points to be earned. 
 
 ### A 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 90+% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
+- _earns_ 900+ points on points-graded work in the course
 ###  B 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 80-89% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
+- _earns_ 800-899 points on points-graded work in the course
 ### C 
 The student:
 - _meets_ the requirements of the labor-based part of this system;
-- _earns_ 70-79% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed. 
+- _earns_ 700-799 points on points-graded work in the course
 ###  NP (in WRIT 1301 or 2302) or D (in other courses) 
 The student:
 - _meets_ most of the requirements of the labor-based part of this system;
-- _earns_ 60-69% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed. 
+- _earns_ 600-699 points on points-graded work in the course 
 - D- is not an available grade at St. Edward's.
 ### F
 The student:
 - _meets_ few of the requirements of the labor-based part of this system and
-- _earns_ <60% of the total available points once all points-graded activities, exams, quizzes, and assignments are completed.
+- _earns_ <600 points on points-graded work in the course 
 - Or, regardless of other performance, commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy. (NB: dishonesty can by itself result in a final grade of F).
 
 
