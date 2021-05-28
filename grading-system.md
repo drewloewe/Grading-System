@@ -33,6 +33,7 @@ This admonition is even more important in online courses—you must exercise mor
 -	Bring (or submit) "good faith full drafts" (your best effort-in-progress attempting the whole project) for peer review sessions. 
 -	Give thoughtful, useful, honest peer feedback. 
 -	Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Don't blast off from the assignment and turn in some other kind of work. This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*.
+-	Major assignments will usually ask you to ask me to comment on something specific. Take this opportunity seriously as a way to get useful feedback on your writing centered on your own development and concerns. To help remind you to do so, I use autograded preflight checklists (simple T/F Canvas quizzes). If you claim the points by certifying that you have asked me to comment on something specific, but that turns out not to be true, I will deduct those quiz points.
 
 ## II. The Performance-Based Part
 
