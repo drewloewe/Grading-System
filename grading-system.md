@@ -53,7 +53,7 @@ For major projects, 90% of the available points are for content and 10% are for 
 
 ## III. Final Course Grades
 
-I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc. I will build a structure that offers at least 1000 points to be earned. 
+I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc. I will build a structure that offers at least 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "wiggle room/extra credit."
 
 ### A 
 The student:
