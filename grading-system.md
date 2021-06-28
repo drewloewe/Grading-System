@@ -38,7 +38,7 @@ This admonition is even more important in online courses—you must exercise mor
 ## II. The Performance-Based Part
 
 -  For major projects, I will use a points-based scale and rubric (as well as comments and feedback). 
-- Some work is not revisable and is graded all-or-nothing (e.g., quizzes, peer review, discussion posts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
+- Some work is not revisable (e.g., quizzes, peer review, discussion posts, weekly activiies, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them). The grade is not guaranteed to increase, but it will certainly NOT decrease.
 - Most work in most courses will be evaluated using a simple point scale. The scale is keyed to the basic four descriptors:
   - **100%--Excellent**--meets all expectations; overall, notably substantive and polished 
   - **85%--Strong**--meets most expectations; overall, solid with a few areas to improve
@@ -48,7 +48,7 @@ This admonition is even more important in online courses—you must exercise mor
 For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
 -  Items graded all-or-nothing will have a simple descriptor of the specifications for a good-faith, useful, responsive submission that does what the item is supposed to do (typically, spark discussion or help you work out your ideas). A good-faith, useful, responsive submission earns all the possible points.
--  Depending on the course, you can earn some of the available points just by participating actively, e.g. in class activities or checking your submissions using a preflight checklist. In those instances, and assuming that you've met the criteria, you'll just answer "True" to a simple True/False quiz question set to award all of those points for an answer of "True." (As other professors have done, I've "hacked" the Canvas quiz function to be a form of self-grading.) If you claim points by certifying something that turns out not to be true, I will deduct those points. 
+-  Depending on the course, you can earn some of the available points just by participating actively, e.g. in class activities or checking your submissions using a preflight checklist. In those instances, and assuming that you've met the criteria, you'll just answer "True" to a simple True/False quiz question set to award you all of those points for an answer of "True." (As other professors have done, I've "hacked" the Canvas quiz function to be a form of self-grading.) If you claim points by certifying something that turns out not to be true, I will deduct those points. 
 
 
 ## III. Final Course Grades
