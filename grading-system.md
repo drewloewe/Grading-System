@@ -9,7 +9,7 @@
 **Online classes** Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on. In synchronous classes, you need to log in to Zoom, sign in for attendance, and participate via voice, camera (if desired), chat, and other ways. No logging in, then bailing--you will be expected to participate by talking, responding to polls, working in groups, posting in chat, and other ways. You will also need to complete quizzes, discussions, and other activities in Canvas. For asychronous online classes, you will need to complete the weekly work schedule on time and as specified on the calendar.
 
 ### Meet Deadlines
-- Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts and activities that we do in class. In addition, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
+- Meet deadlines for all work—items are due when the calendar specifies and your file submissions must not be corrupted (they have to be readable text in the format I specify). **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts and activities that we do in class. In addition, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
 
 ### Read Attentively and Actively
 -	Buy, rent, or access any required textbook(s); download or access (and consider printing) all other required readings.
@@ -43,7 +43,7 @@ This admonition is even more important in online courses—you must exercise mor
   - **100%--Excellent**--meets all expectations; overall, notably substantive and polished 
   - **85%--Strong**--meets most expectations; overall, solid with a few areas to improve
   - **70%-Passing**--attempts all of the assignment, but overall does not yet meet most expectations; significant areas to improve
-  - **0%--Not Passing**--not submitted at all or submitted, but meets few or no expectations; major development or reworking needed 
+  - **0%--Not Passing**--not submitted at all or submitted, but meets few or no expectations; corrupted file; major development or reworking needed 
 
 For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
