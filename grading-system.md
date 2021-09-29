@@ -43,7 +43,7 @@ This admonition is even more important in online courses—you must exercise mor
   - **100%--Excellent**--meets all expectations; overall, notably substantive and polished 
   - **85%--Strong**--meets most expectations; overall, solid with a few areas to improve
   - **70%-Passing**--attempts all of the assignment, but overall does not yet meet most expectations; significant areas to improve
-  - **0%--Not Passing**--not submitted at all or submitted, but meets few or no expectations; corrupted file; major development or reworking needed 
+  - **0%--Not Passing**--unreadable file; not submitted at all; or submitted, but meets few or no expectations, with major development or reworking needed 
 
 For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
