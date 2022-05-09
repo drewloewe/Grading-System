@@ -8,10 +8,11 @@
 
 **Online classes**: Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on. In synchronous classes, you need to log in to Zoom, sign in for attendance, and participate via voice, camera (if desired), chat, and other ways. No logging in, then bailing--you will be expected to participate by talking, responding to polls, working in groups, posting in chat, and other ways. You will also need to complete quizzes, discussions, and other activities in Canvas. For asychronous online classes, you will need to complete the weekly work schedule on time and as specified on the calendar.
 
-### Meet Deadlines
+### Meet Deadlines and Turn in All Major Projects
 - Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts, process work, and activities that we do in class. This kind of work depends on sequencing, iteration, and opportunities for in-process feedback; thus, it is time-sensitive.
 - Your file submissions must not be corrupted (they have to be readable or viewable in the format that I specify). A corrupted file is not a submission.
 - Finally, the deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
+- Turn in all major projects. Missing major projects at the end of the course mean that you cannot pass.
 ### Read Attentively and Actively
 -	Buy, rent, or access any required textbook(s); download or access (and consider printing) all other required readings.
 -	Read all assigned readings closely and annotate them thoughtfully *before* class meetings in F2F classes and before you need to use them in online classes. (All readings are fair game for quizzes and other activities).
