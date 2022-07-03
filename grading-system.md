@@ -55,14 +55,14 @@
 
 ---
 
-Here is another way of looking at the grading system that I use:
+Here is another way of looking at the mentality behind the grading system that I use:
 
 |                 | Followed all directions? | Developed everything asked for? | Performance on what was developed:                 |
 |-----------------|--------------------------|---------------------------------|----------------------------------------------------|
 | Excellent       | Yes                      | Yes                             | Notably well-executed                              |
 | Strong          | Yes                      | Yes                             | Minor areas for improvement                        |
 | Passing         | Maybe                    | Probably not                               | Significant areas for improvement                  |
-| Not Yet Passing | Most likely not          | Most likely not                        | Major development, refocusing, or reworking needed |
+| Not Yet Passing | Most likely not          | Almost certainly not                        | Major development, refocusing, or reworking needed |
 
 ---
 
