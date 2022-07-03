@@ -64,6 +64,7 @@ Here is another way of looking at the grading system that I use:
 | Passing         | Maybe                    | No                              | Significant areas for improvement                  |
 | Not Yet Passing | Most likely not          | No                              | Major development, refocusing, or reworking needed |
 
+---
 
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
