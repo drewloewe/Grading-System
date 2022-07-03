@@ -57,18 +57,14 @@
 
 Here is another way of looking at the grading system that I use:
 
-| You followed the directions and developed all of what was asked for  |
-|-------------------------------------------------------------------|
-| Excellent                                                         |
-| Strong                                                            |
-
-| You may or may not have followed the directions and did not develop all of what was asked for  |
-|----------------------------------------------------------------------------------------------------|
-| Passing                                                                                            |
-| Not Yet Passing                                                                                    |
+|                 | Followed all directions? | Developed everything asked for? | Performance on what was developed:                 |
+|-----------------|--------------------------|---------------------------------|----------------------------------------------------|
+| Excellent       | Yes                      | Yes                             | Notably well-executed                              |
+| Strong          | Yes                      | Yes                             | Minor areas for improvement                        |
+| Passing         | Maybe                    | No                              | Significant areas for improvement                  |
+| Not Yet Passing | Most likely not          | No                              | Major development, refocusing, or reworking needed |
 
 
----
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
