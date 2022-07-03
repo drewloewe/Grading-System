@@ -55,7 +55,7 @@
 
 - Here is another way of looking at the grading system that I use:
 
-| **You followed the directions and developed what was asked for ** |
+| You followed the directions and developed what was asked for  |
 |-------------------------------------------------------------------|
 | Excellent                                                         |
 | Strong                                                            |
