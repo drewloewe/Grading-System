@@ -53,14 +53,22 @@
 - The first thing I look for in any submission in any class is: *does this do all of what is expected in the writing situation?* If it does one thing, kinda-sorta does some other things, and simply does not do other things at all, there is a problem that revision can address, but that keeps the initial submission from passing. **You must submit all of what an assignment asks for, or it cannot pass.**
 -  When I get a “kinda-sorta + omissions” submission, I feel like a diner who is served half a hamburger on a whole-wheat bun, sweet potato fries, and pickled okra when I ordered a whole burger on brioche, waffle fries, and grilled vegetables. This “wait...what?” situation is why I don’t use partial credit schemes for non-passing submissions. I view such schemes as contrived, infantilizing, and debilitating for all concerned. I would not give the restaurant 52% of the cost of what I actually ordered if I was served something other than what I ordered. I give feedback and a “do-over” chance, which is what happens among adults all the time in all kinds of situations.
 
-- Here is another way of looking at the grading system that I use:
+---
 
-| You followed the directions and developed what was asked for  |
+Here is another way of looking at the grading system that I use:
+
+| You followed the directions and developed all of what was asked for  |
 |-------------------------------------------------------------------|
 | Excellent                                                         |
 | Strong                                                            |
 
+| You may or may not have followed the directions and did not develop all of what was asked for  |
+|----------------------------------------------------------------------------------------------------|
+| Passing                                                                                            |
+| Not Yet Passing                                                                                    |
 
+
+---
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
