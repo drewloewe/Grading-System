@@ -55,11 +55,11 @@
 
 - Here is another way of looking at the grading system that I use:
 
-| THE REALM OF "MEETS EXPECTATIONS" |   |   |   |   |
-|-----------------------------------|---|---|---|---|
-| Excellent                         |   |   |   |   |
-| Strong                            |   |   |   |   |
-|                                   |   |   |   |   |
+| **You followed the directions and developed what was asked for ** |
+|-------------------------------------------------------------------|
+| Excellent                                                         |
+| Strong                                                            |
+
 
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
