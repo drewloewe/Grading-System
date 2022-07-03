@@ -61,7 +61,7 @@ Here is another way of looking at the grading system that I use:
 |-----------------|--------------------------|---------------------------------|----------------------------------------------------|
 | Excellent       | Yes                      | Yes                             | Notably well-executed                              |
 | Strong          | Yes                      | Yes                             | Minor areas for improvement                        |
-| Passing         | Maybe                    | No                              | Significant areas for improvement                  |
+| Passing         | Maybe                    | Probably not                               | Significant areas for improvement                  |
 | Not Yet Passing | Most likely not          | No                              | Major development, refocusing, or reworking needed |
 
 ---
