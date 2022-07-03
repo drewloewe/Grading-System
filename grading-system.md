@@ -43,14 +43,24 @@
 
 -  For major projects, I will use a points-based scale and rubric (as well as comments and feedback). 
 - Some work is not revisable (e.g., quizzes, peer review, discussion posts, weekly activities, synthesis charts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them; revisions are "do-overs"). The grade is not guaranteed to increase, but it will certainly NOT decrease.
-- Most work in most courses will be evaluated using a simple point scale and a specific rubric (really, a set of questions). The point scale is keyed to the basic four descriptors:
-  - **100%--Excellent**--meets all expectations; overall, notably substantive and polished 
-  - **85%--Strong**--meets most expectations; overall, solid with a few areas to improve
-  - **70%-Passing**--attempts all of the assignment, but overall does not yet meet most expectations; significant areas to improve
-  - **0%--Not Passing**--unreadable file; not submitted at all; or submitted, but meets few or no expectations, with major development or reworking needed. 
+- Most work in most courses will be evaluated using a simple point scale and a specific rubric (really, a set of questions). The point scale is keyed to four basic descriptors:
+
+  - **100%--Excellent**--follows all directions; meets all expectations for what the assignment asks you to develop; overall, notably substantive and polished 
+  - **85%--Strong**--follows all directions; meets most expectations for what the assignment asks you to develop; overall, solid with a few areas to improve
+  - **70%-Passing**--may or may not follow all directions; overall does not yet meet most expectations for what the assignment asks you to develop; significant areas to improve
+  - **0%--Not Passing**--*if submitted:* may or may not follow all directions; overall, meets few or no expectations for what the assignment asks you to develop (major development, refocusing, or reworking needed); *if not submitted*: unreadable file or not submitted at all
 
 - The first thing I look for in any submission in any class is: *does this do all of what is expected in the writing situation?* If it does one thing, kinda-sorta does some other things, and simply does not do other things at all, there is a problem that revision can address, but that keeps the initial submission from passing. **You must submit all of what an assignment asks for, or it cannot pass.**
 -  When I get a “kinda-sorta + omissions” submission, I feel like a diner who is served half a hamburger on a whole-wheat bun, sweet potato fries, and pickled okra when I ordered a whole burger on brioche, waffle fries, and grilled vegetables. This “wait...what?” situation is why I don’t use partial credit schemes for non-passing submissions. I view such schemes as contrived, infantilizing, and debilitating for all concerned. I would not give the restaurant 52% of the cost of what I actually ordered if I was served something other than what I ordered. I give feedback and a “do-over” chance, which is what happens among adults all the time in all kinds of situations.
+
+- Here is another way of looking at the grading system that I use:
+
+| THE REALM OF "MEETS EXPECTATIONS" |   |   |   |   |
+|-----------------------------------|---|---|---|---|
+| Excellent                         |   |   |   |   |
+| Strong                            |   |   |   |   |
+|                                   |   |   |   |   |
+
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
