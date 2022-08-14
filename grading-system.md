@@ -60,9 +60,9 @@ Here is another way of looking at the mentality behind the grading system that I
 |                 | Followed all directions? | Developed everything asked for? | Performance on what was developed:                 |
 |-----------------|--------------------------|---------------------------------|----------------------------------------------------|
 | Excellent (100%)       | Yes                      | Yes                             | Notably well-executed                              |
-| Strong   (85%)       | Yes                      | Yes                             | Minor areas for improvement                        |
-| Passing  (70%)       | Maybe                    | Probably not                               | Significant areas for improvement                  |
-| Not Yet Passing (0%)| Most likely not          | Almost certainly not                        | Major development, refocusing, or reworking needed |
+| Strong   (85%)       | Yes                      | Yes                             | Minor areas for improvement; eligible for do-over revision                       |
+| Passing  (70%)       | Maybe                    | Probably not                               | Significant areas for improvement;  eligible for do-over revision           |
+| Not Yet Passing (0%)| Most likely not          | Almost certainly not                        | Major development, refocusing, or reworking needed;  eligible for do-over revision |
 
 ---
 
