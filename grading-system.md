@@ -2,33 +2,35 @@
 - This labor- and performance-based grading system works hand-in-hand with my [course policies](http://drewloewe.net/policies/).
 - *NB: These terms are subject to adjustments based on a) an official "504 letter" re: reasonable accommodation of a learning challenge or b) other reasonable actions on a case-by-case basis (please discuss those with me; don't assume anything).
 ## I. The Labor-Based Part
-### Show Up/Engage Regularly and Punctually; Stay in Touch
+
+The labor-based part of this system has seven categories. You are expected to do all of the actions described in each category to fulfill the labor-based part of a grade of C or higher. 
+### Category 1: Show Up/Engage Regularly and Punctually; Stay in Touch
 
 **Traditional Classes**: Attend class regularly and on time; do not miss more than three class meetings total and do not miss any peer-review activities; log into Canvas regularly and make sure that you know what is going on, what you have to do, and when; stay in touch with professor and peers. Barring emergencies, I will be in the classroom and you should be, too. 
 
 **Online classes**: Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on. In synchronous classes, you need to log in to Zoom, sign in for attendance, and participate via voice, camera (if desired), chat, and other ways. No logging in, then bailing--you will be expected to participate by talking, responding to polls, working in groups, posting in chat, and other ways. You will also need to complete quizzes, discussions, and other activities in Canvas. For asychronous online classes, you will need to complete the weekly work schedule on time and as specified on the calendar.
 
-### Meet Deadlines and Turn in All Major Projects
+### Category 2: Meet Deadlines and Turn in All Major Projects
 - Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts, process work, and activities that we do in class. This kind of work depends on sequencing, iteration, and opportunities for in-process feedback; thus, it is time-sensitive.
 - Your file submissions must not be corrupted (they have to be readable or viewable in the format that I specify). A corrupted file is not a submission.
 - Turn in all major projects. Missing major projects at the end of the course mean that you cannot pass.
 - The deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
-### Read Attentively and Actively
+### Category 3: Read Attentively and Actively
 -	Buy, rent, or access any required textbook(s); download or access (and consider printing) all other required readings.
 -	Read all assigned readings closely and annotate them thoughtfully *before* class meetings in F2F classes and before you need to use them in online classes. (All readings are fair game for quizzes and other activities).
 -	Use active reading strategies, such as [Casey Boyle's six-step reading response](https://docs.google.com/document/d/1z1t_ft-HqFO9pK-LQtaASnyqmfh9kbnc6Mp2LzYKjNE/edit?usp=sharing) and the [SQ3R method](https://docs.google.com/document/d/1UQpnr27g58ABgOJXQzTny8AD4V2TZGYebM2tKUVjzaM/edit?usp=sharing). 
-### Seek Guidance as a Adult Learner
+### Category 4: Seek Guidance as a Adult Learner
 -	Talk to me during in-class workshops, email me as needed, bring me drafts, come to student visiting hours, ask questions, and otherwise use me proactively as a resource. Use an appointment (I'll show you how to set one up) if you can't come see me.
 - **NB:** If I ask you to meet with me in person or virtually, you *must* do so. **If I ask to see you, it's not some kind of punishment; rather, it's one grownup asking another to come get expert help that can best be delivered one on one.**
 - Use [the Writing Center](https://www.stedwards.edu/writing-center) as needed and (especially) if I suggest it.
-### Protect your Work
+### Category 5: Protect your Work
 - Save your work in ways that do not make you depend 100% on the health of a particular drive (e.g., use Google Drive).
 - I will try to help you with technical problems, but you are responsible for submitting uncorrupted files. 
-### Avoid Distractions 
+### Category 6: Avoid Distractions 
 - Don’t distract yourself during work time with smartphones, tablets, or computers used for non-work tasks. This admonition is even more important in online courses—to avoid distractions, you must exercise even more discipline in an online course than in a traditional course. 
 - Ordinarily, there is no reason to text or IM people during class, although you (and I) may need to text from time to time for various legitimate reasons, such as emergencies. 
 
-### Dig Into the Work
+### Category 7: Dig Into the Work
 
 -	**It all counts--there is no busy work.** Don't just show up/log in/keep from being a distraction; that's a bare minimum. In a college course for adult learners, you need to offer insights; ask questions; answer questions; bring necessary materials; dig into quizzes, class discussions, and activities; confer during workshops; participate in discussion boards on Canvas; and do assigned homework and in-process activities.  
 -	If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades, if warranted. 
@@ -77,28 +79,16 @@ Here is another way of looking at the mentality behind the grading system that I
 
 I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc. I will build a structure that offers *at least* 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "extra credit" or "wiggle room."
 
-### A 
-The student:
-- _meets_ the requirements of the labor-based part of this system;
-- _earns_ 900+ points on points-graded work in the course
-###  B 
-The student:
-- _meets_ the requirements of the labor-based part of this system;
-- _earns_ 800-899 points on points-graded work in the course
-### C 
-The student:
-- _meets_ the requirements of the labor-based part of this system;
-- _earns_ 700-799 points on points-graded work in the course
-###  NP (in WRIT 1301 or 2302) or D (in other courses) 
-The student:
-- _meets_ most of the requirements of the labor-based part of this system;
-- _earns_ 600-699 points on points-graded work in the course 
-- D- is not an available grade at St. Edward's.
-### F
-The student:
-- _meets_ few of the requirements of the labor-based part of this system and
-- _earns_ <600 points on points-graded work in the course 
-- Or, regardless of other performance, commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy. (NB: dishonesty can by itself result in a final grade of F).
+| Your Final Grade       | Your Labor                                                    | Your Performance |
+|------------------------|---------------------------------------------------------------|------------------|
+| A                      | You did all of the actions described in the seven categories  | 900+ pts         |
+| B                      | You did all of the actions described in the seven categories  | 800-899 pts      |
+| C                      | You did all of the actions described in the seven categories  | 700-799 pts      |
+| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories | 600-699 pts      |
+| F                      | You did few of the actions described in the seven categories  | <600 pts         |
+
+
+Note: regardless of their other performance in a course, a student who commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy might be assigned a final grade of F for that course.
 
 
 
