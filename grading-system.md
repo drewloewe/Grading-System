@@ -8,7 +8,7 @@ The labor-based part of this system has seven categories. You are expected to do
 
 **Traditional Classes**: Attend class regularly and on time; do not miss more than three class meetings total and do not miss any peer-review activities; log into Canvas regularly and make sure that you know what is going on, what you have to do, and when; stay in touch with professor and peers. Barring emergencies, I will be in the classroom and you should be, too. 
 
-**Online classes**: Same as above, but you won’t show up to a classroom. Your use of Canvas should be daily because that’s the only way that you will know what is going on. In synchronous classes, you need to log in to Zoom, sign in for attendance, and participate via voice, camera (if desired), chat, and other ways. No logging in, then bailing--you will be expected to participate by talking, responding to polls, working in groups, posting in chat, and other ways. You will also need to complete quizzes, discussions, and other activities in Canvas. For asychronous online classes, you will need to complete the weekly work schedule on time and as specified on the calendar.
+**Online classes**: Same as above, but you won’t show up to a classroom. Keep on top of the weekly work plans, since you won't have the "personal trainer effect" of coming to a F2F classroom twice a week.
 
 ### Category 2: Meet Deadlines and Turn in All Major Projects
 - Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts, process work, and activities that we do in class. This kind of work depends on sequencing, iteration, and opportunities for in-process feedback; thus, it is time-sensitive.
@@ -38,15 +38,16 @@ The labor-based part of this system has seven categories. You are expected to do
 -	Submit timely "good faith full drafts" (your best effort-in-progress, attempting the whole project) for peer review sessions. 
 -	Give thoughtful, useful, honest peer feedback. Overwhelmingly, students dig into peer review and I tend to give a LOT of 100% grades for peer review.
 -	Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Answer discussion prompts fully, according to what I ask you and what the evaluation criteria of the prompt specify (so, a one-sentence post does not count). Don't blast off from the assignment and turn in some other kind of work that is "kinda-sorta related." This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*. If you don't know what the assignment requires you to submit, please ask.
+-	If you are asked to submit something that I will mark Complete or Incomplete, please submit it on time and submit what is asked for. Late, partial, or off-topic submissions will likely receive a mark of Incomplete. If you receive more than three marks of Incomplete, I require you to meet with me to set up a plan to get back on track. 
 -	Read, watch, and take notes on the feedback that I give you.
--	I have 80+ writing students in a typical term. **So, please submit work where and how I ask you to submit it.** For instance, if I ask you to submit something in Canvas, submit it in Canvas rather than emailing it or linking me to a Google Doc in your personal Google account. I don't have the time and energy to chase various channels in which you might have submitted work. If you don't know where to submit something, just ask.
--	In major assignments, I will usually ask you to ask me to comment on something specific. Take this opportunity seriously as a way to get useful feedback on your writing, feedback that is centered on your own development and concerns.
+-	I can have 80+ writing students in a typical term. **So, please submit work where and how I ask you to submit it.** For instance, if I ask you to submit something in Canvas, submit it in Canvas rather than emailing it or linking me to a Google Doc in your personal Google account. I don't have the time and energy to chase various channels in which you might have submitted work. If you don't know where to submit something, just ask.
+-	In major assignments, I will ask you to ask me to comment on something specific. Take this opportunity seriously as a way to get useful feedback on your writing, feedback that is centered on your own development and concerns.
 
 ## II. The Performance-Based Part
 
 -  For major projects, I will use a points-based scale and rubric (as well as comments and feedback). 
 - Some work is not revisable (e.g., quizzes, peer review, discussion posts, weekly activities, synthesis charts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them; revisions are "do-overs"). The grade is not guaranteed to increase, but it will certainly NOT decrease.
-- Most work in most courses will be evaluated using a simple point scale and a specific rubric (really, a set of questions). The point scale is keyed to four basic descriptors:
+- Most work in most courses will be evaluated using a simple point scale and a specific rubric. The point scale is keyed to four basic descriptors:
 
   - **100%--Excellent**--follows all directions; meets all expectations for what the assignment asks you to develop; overall, notably substantive and polished 
   - **85%--Strong**--follows all directions; meets most expectations for what the assignment asks you to develop; overall, solid with a few areas to improve
@@ -73,7 +74,8 @@ Here is another way of looking at the mentality behind the grading system that I
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
 -  Items graded all-or-nothing will have a simple descriptor of the specifications for a good-faith, useful, responsive submission that does what the item is supposed to do (typically, spark discussion, help you work out your ideas, or give me useful information about questions that students have). A good-faith, useful, responsive submission earns all the possible points.
--  Depending on the course, you can earn some of the available points just by participating actively, e.g. in class activities. In those instances, and assuming that you've met the criteria, you'll just answer "True" to a simple True/False quiz question set to award you all of those points for an answer of "True." (As other professors have done, I've "hacked" the Canvas quiz function to be a form of self-grading.) If you claim points by certifying something that turns out not to be true, I will "claw back" those points. 
+
+
 
 
 ## III. Final Course Grades
