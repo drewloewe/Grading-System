@@ -84,11 +84,11 @@ I opt out of the university's plus-minus grading system. I will assign whole gra
 
 | Your Final Grade       | Your Labor                                                    | Your Performance |
 |------------------------|---------------------------------------------------------------|------------------|
-| A                      | You did all of the actions described in the seven categories  | 900+ pts, at least 90% of Complete/Incomplete items completed        |
-| B                      | You did all of the actions described in the seven categories  | 800-899 pts, 80% of Complete/Incomplete items completed      |
-| C                      | You did all of the actions described in the seven categories  | 700-799 pts, 70% of Complete/Incomplete items completed      |
-| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories | 600-699 pts, 60%  of Complete/Incomplete items completed     |
-| F                      | You did few of the actions described in the seven categories  | <600 pts         |
+| A                      | You did all of the actions described in the seven categories above  | 900+ pts, at least 90% of Complete/Incomplete items completed        |
+| B                      | You did all of the actions described in the seven categories above | 800-899 pts, 80% of Complete/Incomplete items completed      |
+| C                      | You did all of the actions described in the seven categories above | 700-799 pts, 70% of Complete/Incomplete items completed      |
+| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories above| 600-699 pts, 60%  of Complete/Incomplete items completed     |
+| F                      | You did few of the actions described in the seven categories above| <600 pts         |
 
 
 Note: regardless of their other performance in a course, a student who commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy might be assigned a final grade of F for that course.
