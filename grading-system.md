@@ -73,7 +73,7 @@ Here is another way of looking at the mentality behind the grading system that I
 
 - For major projects, 90% of the available points are for content and 10% are for form and mechanics.
 
--  Items graded all-or-nothing will have a simple descriptor of the specifications for a good-faith, useful, responsive submission that does what the item is supposed to do (typically, spark discussion, help you work out your ideas, or give me useful information about questions that students have). A good-faith, useful, responsive submission earns all the possible points.
+-  Items graded all-or-nothing or Complete/Incomplete will have a simple descriptor of the specifications for a good-faith, useful, responsive submission that does what the item is supposed to do (typically, spark discussion, help you work out your ideas, or give me useful information about questions that students have). A good-faith, useful, responsive submission earns all the possible points.
 
 
 
@@ -84,10 +84,10 @@ I opt out of the university's plus-minus grading system. I will assign whole gra
 
 | Your Final Grade       | Your Labor                                                    | Your Performance |
 |------------------------|---------------------------------------------------------------|------------------|
-| A                      | You did all of the actions described in the seven categories  | 900+ pts         |
-| B                      | You did all of the actions described in the seven categories  | 800-899 pts      |
-| C                      | You did all of the actions described in the seven categories  | 700-799 pts      |
-| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories | 600-699 pts      |
+| A                      | You did all of the actions described in the seven categories  | 900+ pts, at least 90% of Complete/Incomplete items completed        |
+| B                      | You did all of the actions described in the seven categories  | 800-899 pts, 80% of Complete/Incomplete items completed      |
+| C                      | You did all of the actions described in the seven categories  | 700-799 pts, 70% of Complete/Incomplete items completed      |
+| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories | 600-699 pts, 60%  of Complete/Incomplete items completed     |
 | F                      | You did few of the actions described in the seven categories  | <600 pts         |
 
 
