@@ -13,6 +13,7 @@ The labor-based part of this system has seven categories. You are expected to do
 ### Category 2: Meet Deadlines and Turn in All Major Projects
 - Meet deadlines for all work—items are due when the calendar specifies. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts, process work, and activities that we do in class. This kind of work depends on sequencing, iteration, and opportunities for in-process feedback; thus, it is time-sensitive.
 - Your file submissions must not be corrupted (they have to be readable or viewable in the format that I specify). A corrupted file is not a submission.
+If you use a link, you must set the link permisison to "anyone with the link can view." 
 - Turn in all major projects on time or by an agreed extended deadline. Missing major projects at the end of the course mean that you cannot pass. 
 - The deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
 ### Category 3: Read Attentively and Actively
