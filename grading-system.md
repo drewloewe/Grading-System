@@ -82,7 +82,7 @@ Here is another way of looking at the mentality behind the grading system that I
 
 ## III. Final Course Grades
 
-I opt out of the university's plus-minus grading system. I will assign whole grades, e.g., A, B, etc. I will build a structure that offers *at least* 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "extra credit" or "wiggle room."
+I opt out of the university's plus-minus grading system. I assign whole grades, e.g., A, B, etc. I will build a structure that offers *at least* 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "extra credit" or "wiggle room."
 
 | Your Final Grade       | Your Labor                                                    | Your Performance |
 |------------------------|---------------------------------------------------------------|------------------|
