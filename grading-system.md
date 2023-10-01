@@ -27,10 +27,10 @@ The labor-based part of this system has seven categories. You are expected to do
 ### Category 5: Protect your Work
 - Save your work in ways that do not make you depend 100% on the health of a particular drive or computer. In the 2020s, with abundant and redundant storage, drive failure is not really an acceptable excuse in most cases.
 - I will try to help you with technical problems to best of my ability, but you are responsible for submitting uncorrupted files. 
-### Category 6: Avoid Distractions to Yourself and Others
-- Don’t distract yourself during work time with smartphones, tablets, or computers used for non-work tasks. This admonition is even more important in online courses—to avoid distractions, you must exercise even more discipline in an online course than in a traditional course. 
-- Ordinarily, there is no reason to text or IM people during class, although you (and I) may need to text from time to time for various legitimate reasons, such as emergencies. 
-
+### Category 6: Don't Distract Yourself or Others
+- Don’t distract yourself or others during class time, especially when we are writing in class. Side conversations unrelated to our work are distracting.
+- Ordinarily, there is no reason to text or IM people during class, although you (and I) may need to text from time to time for various legitimate reasons, such as emergencies.
+- In online classes, you will have to exercise a lot of self-control because you will be doing most of your work on your own and not in a classroom setting. I use and recommend [the free Self Control app](https://selfcontrolapp.com/). There are probably others like it for Windows. 
 
 ### Category 7: Dig Into the Work
 
