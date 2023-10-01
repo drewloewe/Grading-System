@@ -13,14 +13,14 @@ The labor-based part of this system has seven categories. You are expected to do
 ### Category 2: Meet Deadlines and Turn in All Major Projects 
 - Meet deadlines for all work. **But**: During the regular semester (not finals week), you may turn in one major (revisable) project assignment up to 48 hours past its due date. Other assignments and activities **do not** come with this option—especially peer review drafts, process work, and activities that we do in class. This kind of work depends on sequencing, iteration, and opportunities for in-process feedback; thus, it is time-sensitive.
 - Your file submissions must not be corrupted (they have to be readable or viewable in the format that I specify). A corrupted file is not a submission.
-- If I ask you to yuse a link, you must set the link permisison to "anyone with the link can view." 
+- If I ask you to use a link, you must set the link permission to "anyone with the link can view." 
 - The deadline for revisions to major projects due during finals week can't be extended because the university imposes a tight deadline on faculty to turn in final grades.
 ### Category 3: Read Attentively and Actively
 -	Buy, rent, or access any required textbooks; download or access (and consider printing) all other required readings.
 -	Read all assigned readings closely and annotate them thoughtfully *before* class meetings in F2F classes and before you need to use them in online classes. 
 -	All readings are fair game for quizzes and other activities.
 -	Use active reading strategies, such as [Casey Boyle's six-step reading response](https://docs.google.com/document/d/1z1t_ft-HqFO9pK-LQtaASnyqmfh9kbnc6Mp2LzYKjNE/edit?usp=sharing) and the [SQ3R method](https://docs.google.com/document/d/1UQpnr27g58ABgOJXQzTny8AD4V2TZGYebM2tKUVjzaM/edit?usp=sharing). 
-### Category 4: Seek Guidance as a Adult Learner
+### Category 4: Seek Guidance as an Adult Learner
 -	Talk to me during in-class workshops, email me as needed, bring me drafts, come to student visiting hours, ask questions, and otherwise use me proactively as a resource. Use an appointment (I'll show you how to set one up) if you can't come see me during my posted visiting hours.
 - **NB:** If I ask you to meet with me in person or virtually, you *must* do so. **If I ask to see you, it's not some kind of punishment; rather, it's one grownup asking another to come get expert help that can best be delivered one on one.**
 - Use [the Writing Center](https://www.stedwards.edu/writing-center) as needed and (especially) if I suggest it.
@@ -35,7 +35,7 @@ The labor-based part of this system has seven categories. You are expected to do
 ### Category 7: Dig Into the Work
 
 -	**It all counts--there is no busy work.** Don't just show up/log in/keep from being a distraction; that's a bare minimum. In a college course for adult learners, you need to offer insights; ask questions; answer questions; bring necessary materials; dig into quizzes, class discussions, and activities; confer during workshops; participate in discussion boards on Canvas; and do assigned homework and in-process activities.  
--	If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades, if warranted. 
+-	If you are asked to do team activities or projects, make yourself available to your teammate, figure out and negotiate how to share the work, and give helpful, honest, detailed responses to any prompt asking you to evaluate your teammate's performance. I generally will use [this rubric](https://docs.google.com/document/d/1aTyt2w4UrBqES1jrlHlnNmxtjDqTShSJMAqli1H6sps/edit?usp=sharing) for such a prompt. That is also how you will be evaluated by your teammate. Blowing off a teammate's input, ghosting, or expecting them to do more than their fair share of work are all breaches of the grading contract. I reserve the right to break up teams and assign different grades if warranted. 
 -	Submit timely "good faith full drafts" (your best effort-in-progress, attempting the whole project) for peer review sessions. 
 -	Give thoughtful, useful, honest feedback in peer review. Overwhelmingly, students dig into peer review and I tend to give a lot of 100% grades for peer review. But I also give low grades on occasion. If you dig in, you'll likely get a lot of 100% grades for your peer review advice.
 -	Submit what each assignment or activity asks for, e.g., if an assignment asks for four sections with specific headings or three peer-reviewed scholarly sources, your submission can't ignore such requirements. Answer discussion prompts fully, according to what I ask you and what the evaluation criteria of the prompt specify (so, a one-sentence post does not count). Don't blast off from the assignment and turn in some other kind of work that is "kinda-sorta related." This is not to say that you can't be creative, but you need to do what the assignment asks, not just *some of it* or *something sort of like it*. If you don't know what the assignment requires you to submit, please ask.
@@ -82,7 +82,7 @@ Here is another way of looking at the mentality behind the grading system that I
 
 ## III. Final Course Grades
 
-I opt out of the university's plus-minus grading system. I assign whole grades, e.g., A, B, etc. I will build a structure that offers *at least* 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "extra credit" or "wiggle room."
+I opted out of the university's plus-minus grading system. I assign whole grades, e.g., A, B, etc. I will build a structure that offers *at least* 1000 points to be earned. I grade on a 1000-pt scale, so anything above 1000 total pts is *de facto* "extra credit" or "wiggle room."
 
 | Your Final Grade       | Your Labor                                                    | Your Performance |
 |------------------------|---------------------------------------------------------------|------------------|
