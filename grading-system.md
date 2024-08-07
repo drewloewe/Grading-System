@@ -100,7 +100,7 @@ In WRIT 3330: The Craft of Editing, I made *a lot* of points available when over
 | A                      | You did all of the actions described in the seven categories above  | at least 87% of available points earned, at least 90% of Complete/Incomplete items completed        |
 | B                      | You did all of the actions described in the seven categories above | < 87% down to 77% of available points earned, 80% of Complete/Incomplete items completed      |
 | C                      | You did all of the actions described in the seven categories above | < 77% down to 67% of available points earned, 70% of Complete/Incomplete items completed      |
-| D (or NP in WRIT 2302) | You did some of the actions described in the seven categories above| < 67% down to 57% of available points earned, 60%  of Complete/Incomplete items completed     |
+| D  | You did some of the actions described in the seven categories above| < 67% down to 57% of available points earned, 60%  of Complete/Incomplete items completed     |
 | F                      | You did few of the actions described in the seven categories above| < 57% of available points earned        |
 Note: regardless of their other performance in a course, a student who commits a serious act of academic dishonesty as defined by the applicable Bulletin, Student Handbook, or other university policy might be assigned a final grade of F for that course.
 
