@@ -1,7 +1,7 @@
 # Grading System 
 - This grading system works hand-in-hand with my [course policies](http://drewloewe.net/policies/).
 - *NB: These terms are subject to adjustments based on a) an official "504 letter" re: reasonable accommodation of a learning challenge or b) other reasonable actions on a case-by-case basis (please discuss those with me; don't assume anything).
-## How I Evaluate Your Work
+## I. How I Evaluate Your Work
 -  For major projects, I will use a points-based scale and rubric (as well as comments and feedback). 
 - Some work is not revisable (e.g., quizzes, peer review, discussion posts, weekly activities, synthesis charts, etc.), but all major writing projects are revisable. Please read [my revision policies](http://drewloewe.net/policies/). If you revise a major project effectively and follow the policies so I can evaluate it in context, I will simply change the original grade (I don't weight or average them; revisions are "do-overs"). The grade is not guaranteed to increase, but it will certainly NOT decrease. Depending on whether your class is part of the Rumi pilot, I might have two submissions with the lower one dropped or simply have you submit a revision in the same place where you submitted the original. **Please make sure that you know when, where, and how to turn in a revision.**
 - Submitted work will be evaluated using a simple point scale and a specific rubric. The point scale is keyed to four basic descriptors:
